@@ -1,6 +1,0 @@
-C:\Repo\Dibs\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Repo\Dibs\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Repo\Dibs\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Repo\Dibs\WebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Repo\Dibs\WebApplication\bin\roslyn\System.IO.Compression.dll
-C:\Repo\Dibs\WebApplication\bin\roslyn\VBCSCompiler.exe
